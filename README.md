@@ -29,7 +29,7 @@
 
 `Linux` · `Parrot OS` · `Python` · `pytest` · `Git` · `llama.cpp` · `Qwen2.5` · `GGUF` · `Local LLM` · `Policy Engine`   
 
-The architecture separates the LLM from direct system execution through:   
+The architecture separates the LLM from direct system execution using:   
 
 - Structured action proposals  
 - A deterministic Policy Engine   
@@ -41,9 +41,9 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 
 ## Core Principle   
 
-> **The LLM proposes. The Policy Engine decides. Linux executes only what is allowed.**   
+> **The LLM proposes. The Policy Engine decides. Linux executes only what is allowed.**      
 
-## Video    
+## Video       
 <h2 align="center">🎥 Watch the Full Video on YouTube</h2>         
 🎥 Click on the image below to watch the full video on YouTube.        
 🎥 I Gave My Linux AI Agent an LLM — But Can It Be Trusted?         
@@ -65,7 +65,7 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 - **pytest** — automated testing and security regression tests   
 - **Git** — version control and development history   
 - **llama.cpp** — local LLM inference   
-- **Qwen2.5 0.5B Instruct (GGUF)** — local language model   
+- **Qwen2.5-0.5B Instruct (GGUF)** — local language model   
 - **Policy Engine** — deterministic `ALLOW / DENY / CLARIFY` decisions  
 - **Structured Action Proposals** — controlled interface between the LLM and Linux  
 - **subprocess** — controlled Linux command execution   
@@ -79,4 +79,4 @@ Ce dépôt présente le développement, l’architecture, les tests et l’évol
 
 Le code source complet reste privé afin de protéger l’implémentation du projet et sa logique liée à la sécurité.
 
-Certains éléments techniques, démonstrations et étapes de développement sont partagés publiquement à des fins de portfolio et de présentation.
+Certains éléments techniques, démonstrations et étapes de développement sont partagés publiquement à des fins de présentation professionnelle et de portfolio.
