@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Model-GGUF-blue">
   <img src="https://img.shields.io/badge/Security-Policy%20Engine-red">
 </p>
-<h1 align="center">Parrot AI Linux - Partie 2 : Ajouter un LLM local sans lui faire confiance</h1>
 
 <p align="center">
   Cette deuxième partie de Parrot AI Linux présente l’intégration d’un LLM local tout en conservant l’exécution Linux derrière des contrôles de sécurité déterministes.
