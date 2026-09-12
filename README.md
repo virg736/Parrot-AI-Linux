@@ -45,7 +45,7 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 
 ## Video 
 <h2 align="center">🎥 Watch the Full Video on YouTube</h2>
-
+🎥 **Click on the image below to watch the full video on YouTube.**
 🎥 **I Gave My Linux AI Agent an LLM — But Can It Be Trusted?**
 
 <p align="center">
