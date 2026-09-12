@@ -10,7 +10,6 @@
 </p>
 
 
-Part 2 of **Parrot AI Linux** focuses on integrating a local LLM while keeping Linux execution behind deterministic security controls.
 
 
 ## Tech Stack
