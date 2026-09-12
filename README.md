@@ -15,10 +15,6 @@
 <h1 align="center">Parrot AI Linux - Partie 2 : Ajouter un LLM local sans lui faire confiance</h1>
 
 <p align="center">
-  <img src="./parrot_design.jpg" alt="Parrot AI Linux" width="500">
-</p>
-
-<p align="center">
   Cette deuxième partie de Parrot AI Linux présente l’intégration d’un LLM local tout en conservant l’exécution Linux derrière des contrôles de sécurité déterministes.
 </p>
 
