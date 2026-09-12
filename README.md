@@ -23,12 +23,7 @@
 © 2026 Virginie Lechene 
 </p>
 
-
-
-
-
-
-
+---
 
 ## Tech Stack
 
@@ -52,7 +47,13 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 
 🎥 **I Gave My Linux AI Agent an LLM — But Can It Be Trusted?**
 
-[Watch on YouTube](YOUR_YOUTUBE_LINK)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=esuw7GVpjYk">
+    <img src="https://img.youtube.com/vi/esuw7GVpjYk/maxresdefault.jpg"
+         alt="I Gave My Linux AI Agent an LLM — But Can It Be Trusted?"
+         width="700">
+  </a>
+</p>
 
 
 ## Tools & Technologies
