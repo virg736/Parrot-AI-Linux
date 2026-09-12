@@ -1,3 +1,5 @@
+<h1 align="center">Parrot AI Linux - Partie 2 : Ajouter un LLM local sans lui faire confiance</h1>
+
 <p align="center">
   <img src="./parrot_design.jpg" alt="Parrot AI Linux" width="500">
 </p>
