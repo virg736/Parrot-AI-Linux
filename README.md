@@ -9,7 +9,6 @@
   Cette deuxième partie de Parrot AI Linux présente l’intégration d’un LLM local tout en conservant l’exécution Linux derrière des contrôles de sécurité déterministes.
 </p>
 
-# Parrot AI Linux — Part 2: Adding a Local LLM Without Trusting It
 
 Part 2 of **Parrot AI Linux** focuses on integrating a local LLM while keeping Linux execution behind deterministic security controls.
 
