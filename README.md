@@ -71,4 +71,12 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 - **subprocess** — controlled Linux command execution   
 - **Local LLM Server** — local communication between the agent and the model  
 
+----
 
+## Note
+
+Ce dépôt présente le développement, l’architecture, les tests et l’évolution de **Parrot AI Linux**.
+
+Le code source complet reste privé afin de protéger l’implémentation du projet et sa logique liée à la sécurité.
+
+Certains éléments techniques, démonstrations et étapes de développement sont partagés publiquement à des fins de portfolio et de présentation.
