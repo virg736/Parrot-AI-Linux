@@ -65,7 +65,7 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 - **pytest** — automated testing and security regression tests   
 - **Git** — version control and development history   
 - **llama.cpp** — local LLM inference   
-- **Qwen2.5-0.5B Instruct (GGUF)** — local language model   
+- **Qwen2.5-0.5B-Instruct (GGUF)** — local language model   
 - **Policy Engine** — deterministic `ALLOW / DENY / CLARIFY` decisions  
 - **Structured Action Proposals** — controlled interface between the LLM and Linux  
 - **subprocess** — controlled Linux command execution   
