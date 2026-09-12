@@ -1,4 +1,17 @@
+<p align="center">
+  <img src="./parrot_design.jpg" alt="Parrot AI Linux" width="500">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Parrot%20OS-green?logo=linux">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python">
+  <img src="https://img.shields.io/badge/Tests-pytest-blue?logo=pytest">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git">
+  <img src="https://img.shields.io/badge/LLM-Qwen2.5-purple">
+  <img src="https://img.shields.io/badge/Inference-llama.cpp-green">
+  <img src="https://img.shields.io/badge/Model-GGUF-blue">
+  <img src="https://img.shields.io/badge/Security-Policy%20Engine-red">
+</p>
 <h1 align="center">Parrot AI Linux - Partie 2 : Ajouter un LLM local sans lui faire confiance</h1>
 
 <p align="center">
