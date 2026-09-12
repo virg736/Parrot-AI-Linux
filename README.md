@@ -44,9 +44,9 @@ This version integrates **Qwen2.5 locally through llama.cpp**, demonstrates a re
 > **The LLM proposes. The Policy Engine decides. Linux executes only what is allowed.**   
 
 ## Video    
-<h2 align="center">🎥 Watch the Full Video on YouTube</h2>   
-🎥 **Click on the image below to watch the full video on YouTube.**   
-🎥 **I Gave My Linux AI Agent an LLM — But Can It Be Trusted?**   
+<h2 align="center">🎥 Watch the Full Video on YouTube</h2>         
+🎥 Click on the image below to watch the full video on YouTube.        
+🎥 I Gave My Linux AI Agent an LLM — But Can It Be Trusted?         
 
 <p align="center">   
   <a href="https://www.youtube.com/watch?v=esuw7GVpjYk">   
